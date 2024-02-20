@@ -1,0 +1,38 @@
+   
+section.service {
+    height: 400px;
+    max-height: 500px;
+    text-align: center;
+}
+
+
+nav.table1 {
+    
+    
+    width: 100%;
+    font-size: 20px;
+    
+
+    text-align: center;
+    display: flex;
+}
+
+section.complet {
+    text-align: center;
+    margin-top: 60px;
+    float: left;
+    margin-left: 30px;
+    font-size: 17px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+nav.comlpet1 {
+    ext-align: center;
+    margin-top: 60px;
+    float: left;
+    margin-left: 30px;
+    font-size: 17px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+}
